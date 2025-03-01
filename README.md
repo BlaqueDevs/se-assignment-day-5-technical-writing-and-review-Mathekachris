@@ -2,6 +2,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18476165&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+Understanding your audience's technical expertise level, whether they are tech experts or regular people, drastically impacts how you present technical information, requiring you to adjust your language, terminology, and explanation depth to ensure clarity and engagement, with tech experts allowing for more technical jargon while explaining to regular folks necessitates simpler language, analogies, and visual aids to convey complex concepts effectively. 
+
 ## 2. What are some strategies to tailor your content to different audience types?
 To tailor content to different audience types, you can: understand your audience's needs and interests, use language they can relate to, address their specific concerns, adapt your content format based on their preferred channels, create buyer personas to segment your audience, and gather feedback to continually refine your approach; essentially speaking directly to each group by considering their perspective and tailoring your message accordingly. 
 
